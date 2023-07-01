@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\02.ConditionalExpressionResolver\bin\Debug\netcoreapp3.1\02.ConditionalExpressionResolver.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\02.ConditionalExpressionResolver\bin\Debug\netcoreapp3.1\02.ConditionalExpressionResolver.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\02.ConditionalExpressionResolver\bin\Debug\netcoreapp3.1\02.ConditionalExpressionResolver.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\02.ConditionalExpressionResolver\bin\Debug\netcoreapp3.1\02.ConditionalExpressionResolver.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\02.ConditionalExpressionResolver\bin\Debug\netcoreapp3.1\02.ConditionalExpressionResolver.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\02.ConditionalExpressionResolver\bin\Debug\netcoreapp3.1\02.ConditionalExpressionResolver.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\02.ConditionalExpressionResolver\obj\Debug\netcoreapp3.1\02.ConditionalExpressionResolver.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\02.ConditionalExpressionResolver\obj\Debug\netcoreapp3.1\02.ConditionalExpressionResolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\02.ConditionalExpressionResolver\obj\Debug\netcoreapp3.1\02.ConditionalExpressionResolver.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\02.ConditionalExpressionResolver\obj\Debug\netcoreapp3.1\02.ConditionalExpressionResolver.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\02.ConditionalExpressionResolver\obj\Debug\netcoreapp3.1\02.ConditionalExpressionResolver.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\02.ConditionalExpressionResolver\obj\Debug\netcoreapp3.1\02.ConditionalExpressionResolver.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\02.ConditionalExpressionResolver\obj\Debug\netcoreapp3.1\02.ConditionalExpressionResolver.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\02.ConditionalExpressionResolver\obj\Debug\netcoreapp3.1\02.ConditionalExpressionResolver.genruntimeconfig.cache

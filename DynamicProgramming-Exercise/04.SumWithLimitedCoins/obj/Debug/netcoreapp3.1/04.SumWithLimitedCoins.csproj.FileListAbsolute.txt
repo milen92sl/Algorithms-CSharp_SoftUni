@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\04.SumWithLimitedCoins\bin\Debug\netcoreapp3.1\04.SumWithLimitedCoins.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\04.SumWithLimitedCoins\bin\Debug\netcoreapp3.1\04.SumWithLimitedCoins.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\04.SumWithLimitedCoins\bin\Debug\netcoreapp3.1\04.SumWithLimitedCoins.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\04.SumWithLimitedCoins\bin\Debug\netcoreapp3.1\04.SumWithLimitedCoins.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\04.SumWithLimitedCoins\bin\Debug\netcoreapp3.1\04.SumWithLimitedCoins.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\04.SumWithLimitedCoins\bin\Debug\netcoreapp3.1\04.SumWithLimitedCoins.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\04.SumWithLimitedCoins\obj\Debug\netcoreapp3.1\04.SumWithLimitedCoins.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\04.SumWithLimitedCoins\obj\Debug\netcoreapp3.1\04.SumWithLimitedCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\04.SumWithLimitedCoins\obj\Debug\netcoreapp3.1\04.SumWithLimitedCoins.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\04.SumWithLimitedCoins\obj\Debug\netcoreapp3.1\04.SumWithLimitedCoins.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\04.SumWithLimitedCoins\obj\Debug\netcoreapp3.1\04.SumWithLimitedCoins.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\04.SumWithLimitedCoins\obj\Debug\netcoreapp3.1\04.SumWithLimitedCoins.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\04.SumWithLimitedCoins\obj\Debug\netcoreapp3.1\04.SumWithLimitedCoins.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\04.SumWithLimitedCoins\obj\Debug\netcoreapp3.1\04.SumWithLimitedCoins.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\05.Quicksort\bin\Debug\netcoreapp3.1\05.Quicksort.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\05.Quicksort\bin\Debug\netcoreapp3.1\05.Quicksort.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\05.Quicksort\bin\Debug\netcoreapp3.1\05.Quicksort.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\05.Quicksort\bin\Debug\netcoreapp3.1\05.Quicksort.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\05.Quicksort\bin\Debug\netcoreapp3.1\05.Quicksort.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\05.Quicksort\bin\Debug\netcoreapp3.1\05.Quicksort.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\05.Quicksort\obj\Debug\netcoreapp3.1\05.Quicksort.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\05.Quicksort\obj\Debug\netcoreapp3.1\05.Quicksort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\05.Quicksort\obj\Debug\netcoreapp3.1\05.Quicksort.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\05.Quicksort\obj\Debug\netcoreapp3.1\05.Quicksort.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\05.Quicksort\obj\Debug\netcoreapp3.1\05.Quicksort.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\05.Quicksort\obj\Debug\netcoreapp3.1\05.Quicksort.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\05.Quicksort\obj\Debug\netcoreapp3.1\05.Quicksort.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\05.Quicksort\obj\Debug\netcoreapp3.1\05.Quicksort.genruntimeconfig.cache

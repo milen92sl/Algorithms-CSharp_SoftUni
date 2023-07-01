@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\01.BinarySearch\bin\Debug\netcoreapp3.1\01.BinarySearch.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\01.BinarySearch\bin\Debug\netcoreapp3.1\01.BinarySearch.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\01.BinarySearch\bin\Debug\netcoreapp3.1\01.BinarySearch.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\01.BinarySearch\bin\Debug\netcoreapp3.1\01.BinarySearch.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\01.BinarySearch\bin\Debug\netcoreapp3.1\01.BinarySearch.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\01.BinarySearch\bin\Debug\netcoreapp3.1\01.BinarySearch.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\01.BinarySearch\obj\Debug\netcoreapp3.1\01.BinarySearch.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\01.BinarySearch\obj\Debug\netcoreapp3.1\01.BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\01.BinarySearch\obj\Debug\netcoreapp3.1\01.BinarySearch.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\01.BinarySearch\obj\Debug\netcoreapp3.1\01.BinarySearch.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\01.BinarySearch\obj\Debug\netcoreapp3.1\01.BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\01.BinarySearch\obj\Debug\netcoreapp3.1\01.BinarySearch.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\01.BinarySearch\obj\Debug\netcoreapp3.1\01.BinarySearch.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\01.BinarySearch\obj\Debug\netcoreapp3.1\01.BinarySearch.genruntimeconfig.cache

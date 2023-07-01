@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\07.SumOfCoins\bin\Debug\netcoreapp3.1\07.SumOfCoins.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\07.SumOfCoins\bin\Debug\netcoreapp3.1\07.SumOfCoins.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\07.SumOfCoins\bin\Debug\netcoreapp3.1\07.SumOfCoins.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\07.SumOfCoins\bin\Debug\netcoreapp3.1\07.SumOfCoins.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\07.SumOfCoins\bin\Debug\netcoreapp3.1\07.SumOfCoins.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\07.SumOfCoins\bin\Debug\netcoreapp3.1\07.SumOfCoins.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\07.SumOfCoins\obj\Debug\netcoreapp3.1\07.SumOfCoins.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\07.SumOfCoins\obj\Debug\netcoreapp3.1\07.SumOfCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\07.SumOfCoins\obj\Debug\netcoreapp3.1\07.SumOfCoins.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\07.SumOfCoins\obj\Debug\netcoreapp3.1\07.SumOfCoins.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\07.SumOfCoins\obj\Debug\netcoreapp3.1\07.SumOfCoins.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\07.SumOfCoins\obj\Debug\netcoreapp3.1\07.SumOfCoins.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\07.SumOfCoins\obj\Debug\netcoreapp3.1\07.SumOfCoins.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\07.SumOfCoins\obj\Debug\netcoreapp3.1\07.SumOfCoins.genruntimeconfig.cache

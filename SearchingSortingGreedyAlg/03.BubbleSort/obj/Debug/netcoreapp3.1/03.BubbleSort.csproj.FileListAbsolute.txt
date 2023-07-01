@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\03.BubbleSort\bin\Debug\netcoreapp3.1\03.BubbleSort.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\03.BubbleSort\bin\Debug\netcoreapp3.1\03.BubbleSort.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\03.BubbleSort\bin\Debug\netcoreapp3.1\03.BubbleSort.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\03.BubbleSort\bin\Debug\netcoreapp3.1\03.BubbleSort.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\03.BubbleSort\bin\Debug\netcoreapp3.1\03.BubbleSort.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\03.BubbleSort\bin\Debug\netcoreapp3.1\03.BubbleSort.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\03.BubbleSort\obj\Debug\netcoreapp3.1\03.BubbleSort.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\03.BubbleSort\obj\Debug\netcoreapp3.1\03.BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\03.BubbleSort\obj\Debug\netcoreapp3.1\03.BubbleSort.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\03.BubbleSort\obj\Debug\netcoreapp3.1\03.BubbleSort.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\03.BubbleSort\obj\Debug\netcoreapp3.1\03.BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\03.BubbleSort\obj\Debug\netcoreapp3.1\03.BubbleSort.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\03.BubbleSort\obj\Debug\netcoreapp3.1\03.BubbleSort.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\03.BubbleSort\obj\Debug\netcoreapp3.1\03.BubbleSort.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\05.SchoolTeams\obj\Debug\netcoreapp3.1\05.SchoolTeams.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\05.SchoolTeams\obj\Debug\netcoreapp3.1\05.SchoolTeams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\05.SchoolTeams\obj\Debug\netcoreapp3.1\05.SchoolTeams.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\05.SchoolTeams\obj\Debug\netcoreapp3.1\05.SchoolTeams.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\05.SchoolTeams\obj\Debug\netcoreapp3.1\05.SchoolTeams.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\05.SchoolTeams\bin\Debug\netcoreapp3.1\05.SchoolTeams.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\05.SchoolTeams\bin\Debug\netcoreapp3.1\05.SchoolTeams.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\05.SchoolTeams\bin\Debug\netcoreapp3.1\05.SchoolTeams.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\05.SchoolTeams\bin\Debug\netcoreapp3.1\05.SchoolTeams.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\05.SchoolTeams\bin\Debug\netcoreapp3.1\05.SchoolTeams.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\05.SchoolTeams\bin\Debug\netcoreapp3.1\05.SchoolTeams.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\05.SchoolTeams\obj\Debug\netcoreapp3.1\05.SchoolTeams.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\05.SchoolTeams\obj\Debug\netcoreapp3.1\05.SchoolTeams.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\05.SchoolTeams\obj\Debug\netcoreapp3.1\05.SchoolTeams.genruntimeconfig.cache

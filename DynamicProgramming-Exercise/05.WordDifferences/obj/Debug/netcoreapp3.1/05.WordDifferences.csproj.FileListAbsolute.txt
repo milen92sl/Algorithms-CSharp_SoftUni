@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\05.WordDifferences\bin\Debug\netcoreapp3.1\05.WordDifferences.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\05.WordDifferences\bin\Debug\netcoreapp3.1\05.WordDifferences.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\05.WordDifferences\bin\Debug\netcoreapp3.1\05.WordDifferences.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\05.WordDifferences\bin\Debug\netcoreapp3.1\05.WordDifferences.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\05.WordDifferences\bin\Debug\netcoreapp3.1\05.WordDifferences.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\05.WordDifferences\bin\Debug\netcoreapp3.1\05.WordDifferences.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\05.WordDifferences\obj\Debug\netcoreapp3.1\05.WordDifferences.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\05.WordDifferences\obj\Debug\netcoreapp3.1\05.WordDifferences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\05.WordDifferences\obj\Debug\netcoreapp3.1\05.WordDifferences.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\05.WordDifferences\obj\Debug\netcoreapp3.1\05.WordDifferences.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\05.WordDifferences\obj\Debug\netcoreapp3.1\05.WordDifferences.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\05.WordDifferences\obj\Debug\netcoreapp3.1\05.WordDifferences.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\05.WordDifferences\obj\Debug\netcoreapp3.1\05.WordDifferences.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\05.WordDifferences\obj\Debug\netcoreapp3.1\05.WordDifferences.genruntimeconfig.cache

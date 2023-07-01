@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\03.Guards\bin\Debug\netcoreapp3.1\03.Guards.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\03.Guards\bin\Debug\netcoreapp3.1\03.Guards.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\03.Guards\bin\Debug\netcoreapp3.1\03.Guards.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\03.Guards\bin\Debug\netcoreapp3.1\03.Guards.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\03.Guards\bin\Debug\netcoreapp3.1\03.Guards.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\03.Guards\bin\Debug\netcoreapp3.1\03.Guards.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\03.Guards\obj\Debug\netcoreapp3.1\03.Guards.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\03.Guards\obj\Debug\netcoreapp3.1\03.Guards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\03.Guards\obj\Debug\netcoreapp3.1\03.Guards.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\03.Guards\obj\Debug\netcoreapp3.1\03.Guards.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\03.Guards\obj\Debug\netcoreapp3.1\03.Guards.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\03.Guards\obj\Debug\netcoreapp3.1\03.Guards.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\03.Guards\obj\Debug\netcoreapp3.1\03.Guards.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\03.Guards\obj\Debug\netcoreapp3.1\03.Guards.genruntimeconfig.cache

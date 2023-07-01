@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\03.GeneratingVectors\bin\Debug\netcoreapp3.1\03.GeneratingVectors.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\03.GeneratingVectors\bin\Debug\netcoreapp3.1\03.GeneratingVectors.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\03.GeneratingVectors\bin\Debug\netcoreapp3.1\03.GeneratingVectors.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\03.GeneratingVectors\bin\Debug\netcoreapp3.1\03.GeneratingVectors.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\03.GeneratingVectors\bin\Debug\netcoreapp3.1\03.GeneratingVectors.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\03.GeneratingVectors\bin\Debug\netcoreapp3.1\03.GeneratingVectors.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\03.GeneratingVectors\obj\Debug\netcoreapp3.1\03.GeneratingVectors.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\03.GeneratingVectors\obj\Debug\netcoreapp3.1\03.GeneratingVectors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\03.GeneratingVectors\obj\Debug\netcoreapp3.1\03.GeneratingVectors.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\03.GeneratingVectors\obj\Debug\netcoreapp3.1\03.GeneratingVectors.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\03.GeneratingVectors\obj\Debug\netcoreapp3.1\03.GeneratingVectors.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\03.GeneratingVectors\obj\Debug\netcoreapp3.1\03.GeneratingVectors.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\03.GeneratingVectors\obj\Debug\netcoreapp3.1\03.GeneratingVectors.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\03.GeneratingVectors\obj\Debug\netcoreapp3.1\03.GeneratingVectors.genruntimeconfig.cache

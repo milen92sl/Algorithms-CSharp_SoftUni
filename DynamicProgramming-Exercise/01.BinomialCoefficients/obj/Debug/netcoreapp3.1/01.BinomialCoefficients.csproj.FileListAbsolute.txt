@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\01.BinomialCoefficients\bin\Debug\netcoreapp3.1\01.BinomialCoefficients.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\01.BinomialCoefficients\bin\Debug\netcoreapp3.1\01.BinomialCoefficients.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\01.BinomialCoefficients\bin\Debug\netcoreapp3.1\01.BinomialCoefficients.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\01.BinomialCoefficients\bin\Debug\netcoreapp3.1\01.BinomialCoefficients.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\01.BinomialCoefficients\bin\Debug\netcoreapp3.1\01.BinomialCoefficients.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\01.BinomialCoefficients\bin\Debug\netcoreapp3.1\01.BinomialCoefficients.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\01.BinomialCoefficients\obj\Debug\netcoreapp3.1\01.BinomialCoefficients.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\01.BinomialCoefficients\obj\Debug\netcoreapp3.1\01.BinomialCoefficients.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\01.BinomialCoefficients\obj\Debug\netcoreapp3.1\01.BinomialCoefficients.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\01.BinomialCoefficients\obj\Debug\netcoreapp3.1\01.BinomialCoefficients.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\01.BinomialCoefficients\obj\Debug\netcoreapp3.1\01.BinomialCoefficients.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\01.BinomialCoefficients\obj\Debug\netcoreapp3.1\01.BinomialCoefficients.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\01.BinomialCoefficients\obj\Debug\netcoreapp3.1\01.BinomialCoefficients.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\01.BinomialCoefficients\obj\Debug\netcoreapp3.1\01.BinomialCoefficients.genruntimeconfig.cache

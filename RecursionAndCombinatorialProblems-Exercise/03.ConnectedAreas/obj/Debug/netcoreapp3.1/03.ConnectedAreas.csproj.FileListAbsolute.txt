@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\03.ConnectedAreas\bin\Debug\netcoreapp3.1\03.ConnectedAreas.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\03.ConnectedAreas\bin\Debug\netcoreapp3.1\03.ConnectedAreas.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\03.ConnectedAreas\bin\Debug\netcoreapp3.1\03.ConnectedAreas.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\03.ConnectedAreas\bin\Debug\netcoreapp3.1\03.ConnectedAreas.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\03.ConnectedAreas\bin\Debug\netcoreapp3.1\03.ConnectedAreas.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\03.ConnectedAreas\bin\Debug\netcoreapp3.1\03.ConnectedAreas.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\03.ConnectedAreas\obj\Debug\netcoreapp3.1\03.ConnectedAreas.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\03.ConnectedAreas\obj\Debug\netcoreapp3.1\03.ConnectedAreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\03.ConnectedAreas\obj\Debug\netcoreapp3.1\03.ConnectedAreas.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\03.ConnectedAreas\obj\Debug\netcoreapp3.1\03.ConnectedAreas.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\03.ConnectedAreas\obj\Debug\netcoreapp3.1\03.ConnectedAreas.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\03.ConnectedAreas\obj\Debug\netcoreapp3.1\03.ConnectedAreas.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\03.ConnectedAreas\obj\Debug\netcoreapp3.1\03.ConnectedAreas.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\03.ConnectedAreas\obj\Debug\netcoreapp3.1\03.ConnectedAreas.genruntimeconfig.cache

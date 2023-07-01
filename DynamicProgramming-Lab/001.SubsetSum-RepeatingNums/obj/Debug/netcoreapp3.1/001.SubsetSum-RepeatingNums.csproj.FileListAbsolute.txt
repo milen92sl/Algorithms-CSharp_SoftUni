@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\001.SubsetSum-RepeatingNums\bin\Debug\netcoreapp3.1\001.SubsetSum-RepeatingNums.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\001.SubsetSum-RepeatingNums\bin\Debug\netcoreapp3.1\001.SubsetSum-RepeatingNums.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\001.SubsetSum-RepeatingNums\bin\Debug\netcoreapp3.1\001.SubsetSum-RepeatingNums.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\001.SubsetSum-RepeatingNums\bin\Debug\netcoreapp3.1\001.SubsetSum-RepeatingNums.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\001.SubsetSum-RepeatingNums\bin\Debug\netcoreapp3.1\001.SubsetSum-RepeatingNums.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\001.SubsetSum-RepeatingNums\bin\Debug\netcoreapp3.1\001.SubsetSum-RepeatingNums.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\001.SubsetSum-RepeatingNums\obj\Debug\netcoreapp3.1\001.SubsetSum-RepeatingNums.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\001.SubsetSum-RepeatingNums\obj\Debug\netcoreapp3.1\001.SubsetSum-RepeatingNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\001.SubsetSum-RepeatingNums\obj\Debug\netcoreapp3.1\001.SubsetSum-RepeatingNums.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\001.SubsetSum-RepeatingNums\obj\Debug\netcoreapp3.1\001.SubsetSum-RepeatingNums.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\001.SubsetSum-RepeatingNums\obj\Debug\netcoreapp3.1\001.SubsetSum-RepeatingNums.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\001.SubsetSum-RepeatingNums\obj\Debug\netcoreapp3.1\001.SubsetSum-RepeatingNums.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\001.SubsetSum-RepeatingNums\obj\Debug\netcoreapp3.1\001.SubsetSum-RepeatingNums.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\001.SubsetSum-RepeatingNums\obj\Debug\netcoreapp3.1\001.SubsetSum-RepeatingNums.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\02.NestedLoops\bin\Debug\netcoreapp3.1\02.NestedLoops.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\02.NestedLoops\bin\Debug\netcoreapp3.1\02.NestedLoops.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\02.NestedLoops\bin\Debug\netcoreapp3.1\02.NestedLoops.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\02.NestedLoops\bin\Debug\netcoreapp3.1\02.NestedLoops.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\02.NestedLoops\bin\Debug\netcoreapp3.1\02.NestedLoops.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\02.NestedLoops\bin\Debug\netcoreapp3.1\02.NestedLoops.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\02.NestedLoops\obj\Debug\netcoreapp3.1\02.NestedLoops.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\02.NestedLoops\obj\Debug\netcoreapp3.1\02.NestedLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\02.NestedLoops\obj\Debug\netcoreapp3.1\02.NestedLoops.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\02.NestedLoops\obj\Debug\netcoreapp3.1\02.NestedLoops.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\02.NestedLoops\obj\Debug\netcoreapp3.1\02.NestedLoops.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\02.NestedLoops\obj\Debug\netcoreapp3.1\02.NestedLoops.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\02.NestedLoops\obj\Debug\netcoreapp3.1\02.NestedLoops.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\02.NestedLoops\obj\Debug\netcoreapp3.1\02.NestedLoops.genruntimeconfig.cache

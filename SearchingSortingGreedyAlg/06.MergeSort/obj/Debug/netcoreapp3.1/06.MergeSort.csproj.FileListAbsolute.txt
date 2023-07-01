@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\06.MergeSort\bin\Debug\netcoreapp3.1\06.MergeSort.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\06.MergeSort\bin\Debug\netcoreapp3.1\06.MergeSort.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\06.MergeSort\bin\Debug\netcoreapp3.1\06.MergeSort.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\06.MergeSort\bin\Debug\netcoreapp3.1\06.MergeSort.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\06.MergeSort\bin\Debug\netcoreapp3.1\06.MergeSort.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\06.MergeSort\bin\Debug\netcoreapp3.1\06.MergeSort.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\06.MergeSort\obj\Debug\netcoreapp3.1\06.MergeSort.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\06.MergeSort\obj\Debug\netcoreapp3.1\06.MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\06.MergeSort\obj\Debug\netcoreapp3.1\06.MergeSort.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\06.MergeSort\obj\Debug\netcoreapp3.1\06.MergeSort.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\06.MergeSort\obj\Debug\netcoreapp3.1\06.MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\06.MergeSort\obj\Debug\netcoreapp3.1\06.MergeSort.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\06.MergeSort\obj\Debug\netcoreapp3.1\06.MergeSort.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\06.MergeSort\obj\Debug\netcoreapp3.1\06.MergeSort.genruntimeconfig.cache

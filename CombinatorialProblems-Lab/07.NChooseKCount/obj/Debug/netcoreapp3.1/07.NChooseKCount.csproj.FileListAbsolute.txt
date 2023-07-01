@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\07.NChooseKCount\bin\Debug\netcoreapp3.1\07.NChooseKCount.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\07.NChooseKCount\bin\Debug\netcoreapp3.1\07.NChooseKCount.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\07.NChooseKCount\bin\Debug\netcoreapp3.1\07.NChooseKCount.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\07.NChooseKCount\bin\Debug\netcoreapp3.1\07.NChooseKCount.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\07.NChooseKCount\bin\Debug\netcoreapp3.1\07.NChooseKCount.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\07.NChooseKCount\bin\Debug\netcoreapp3.1\07.NChooseKCount.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\07.NChooseKCount\obj\Debug\netcoreapp3.1\07.NChooseKCount.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\07.NChooseKCount\obj\Debug\netcoreapp3.1\07.NChooseKCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\07.NChooseKCount\obj\Debug\netcoreapp3.1\07.NChooseKCount.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\07.NChooseKCount\obj\Debug\netcoreapp3.1\07.NChooseKCount.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\07.NChooseKCount\obj\Debug\netcoreapp3.1\07.NChooseKCount.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\07.NChooseKCount\obj\Debug\netcoreapp3.1\07.NChooseKCount.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\07.NChooseKCount\obj\Debug\netcoreapp3.1\07.NChooseKCount.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\07.NChooseKCount\obj\Debug\netcoreapp3.1\07.NChooseKCount.genruntimeconfig.cache

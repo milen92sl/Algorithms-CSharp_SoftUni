@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\04.VariationsWithRepetition\bin\Debug\netcoreapp3.1\04.VariationsWithRepetition.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\04.VariationsWithRepetition\bin\Debug\netcoreapp3.1\04.VariationsWithRepetition.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\04.VariationsWithRepetition\bin\Debug\netcoreapp3.1\04.VariationsWithRepetition.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\04.VariationsWithRepetition\bin\Debug\netcoreapp3.1\04.VariationsWithRepetition.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\04.VariationsWithRepetition\bin\Debug\netcoreapp3.1\04.VariationsWithRepetition.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\04.VariationsWithRepetition\bin\Debug\netcoreapp3.1\04.VariationsWithRepetition.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\04.VariationsWithRepetition\obj\Debug\netcoreapp3.1\04.VariationsWithRepetition.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\04.VariationsWithRepetition\obj\Debug\netcoreapp3.1\04.VariationsWithRepetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\04.VariationsWithRepetition\obj\Debug\netcoreapp3.1\04.VariationsWithRepetition.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\04.VariationsWithRepetition\obj\Debug\netcoreapp3.1\04.VariationsWithRepetition.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\04.VariationsWithRepetition\obj\Debug\netcoreapp3.1\04.VariationsWithRepetition.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\04.VariationsWithRepetition\obj\Debug\netcoreapp3.1\04.VariationsWithRepetition.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\04.VariationsWithRepetition\obj\Debug\netcoreapp3.1\04.VariationsWithRepetition.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\04.VariationsWithRepetition\obj\Debug\netcoreapp3.1\04.VariationsWithRepetition.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\04.RecursiveFactorial\bin\Debug\netcoreapp3.1\04.RecursiveFactorial.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\04.RecursiveFactorial\bin\Debug\netcoreapp3.1\04.RecursiveFactorial.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\04.RecursiveFactorial\bin\Debug\netcoreapp3.1\04.RecursiveFactorial.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\04.RecursiveFactorial\bin\Debug\netcoreapp3.1\04.RecursiveFactorial.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\04.RecursiveFactorial\bin\Debug\netcoreapp3.1\04.RecursiveFactorial.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\04.RecursiveFactorial\bin\Debug\netcoreapp3.1\04.RecursiveFactorial.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\netcoreapp3.1\04.RecursiveFactorial.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\netcoreapp3.1\04.RecursiveFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\netcoreapp3.1\04.RecursiveFactorial.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\netcoreapp3.1\04.RecursiveFactorial.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\netcoreapp3.1\04.RecursiveFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\netcoreapp3.1\04.RecursiveFactorial.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\netcoreapp3.1\04.RecursiveFactorial.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\netcoreapp3.1\04.RecursiveFactorial.genruntimeconfig.cache

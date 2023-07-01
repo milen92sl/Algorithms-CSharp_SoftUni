@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\05.Rumors\bin\Debug\netcoreapp3.1\05.Rumors.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\05.Rumors\bin\Debug\netcoreapp3.1\05.Rumors.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\05.Rumors\bin\Debug\netcoreapp3.1\05.Rumors.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\05.Rumors\bin\Debug\netcoreapp3.1\05.Rumors.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\05.Rumors\bin\Debug\netcoreapp3.1\05.Rumors.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\05.Rumors\bin\Debug\netcoreapp3.1\05.Rumors.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\05.Rumors\obj\Debug\netcoreapp3.1\05.Rumors.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\05.Rumors\obj\Debug\netcoreapp3.1\05.Rumors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\05.Rumors\obj\Debug\netcoreapp3.1\05.Rumors.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\05.Rumors\obj\Debug\netcoreapp3.1\05.Rumors.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\05.Rumors\obj\Debug\netcoreapp3.1\05.Rumors.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\05.Rumors\obj\Debug\netcoreapp3.1\05.Rumors.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\05.Rumors\obj\Debug\netcoreapp3.1\05.Rumors.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\05.Rumors\obj\Debug\netcoreapp3.1\05.Rumors.genruntimeconfig.cache

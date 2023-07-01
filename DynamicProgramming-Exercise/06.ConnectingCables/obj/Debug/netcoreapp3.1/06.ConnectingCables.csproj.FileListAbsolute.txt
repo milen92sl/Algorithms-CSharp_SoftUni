@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\06.ConnectingCables\bin\Debug\netcoreapp3.1\06.ConnectingCables.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\06.ConnectingCables\bin\Debug\netcoreapp3.1\06.ConnectingCables.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\06.ConnectingCables\bin\Debug\netcoreapp3.1\06.ConnectingCables.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\06.ConnectingCables\bin\Debug\netcoreapp3.1\06.ConnectingCables.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\06.ConnectingCables\bin\Debug\netcoreapp3.1\06.ConnectingCables.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\06.ConnectingCables\bin\Debug\netcoreapp3.1\06.ConnectingCables.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\06.ConnectingCables\obj\Debug\netcoreapp3.1\06.ConnectingCables.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\06.ConnectingCables\obj\Debug\netcoreapp3.1\06.ConnectingCables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\06.ConnectingCables\obj\Debug\netcoreapp3.1\06.ConnectingCables.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\06.ConnectingCables\obj\Debug\netcoreapp3.1\06.ConnectingCables.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\06.ConnectingCables\obj\Debug\netcoreapp3.1\06.ConnectingCables.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\06.ConnectingCables\obj\Debug\netcoreapp3.1\06.ConnectingCables.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\06.ConnectingCables\obj\Debug\netcoreapp3.1\06.ConnectingCables.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\06.ConnectingCables\obj\Debug\netcoreapp3.1\06.ConnectingCables.genruntimeconfig.cache

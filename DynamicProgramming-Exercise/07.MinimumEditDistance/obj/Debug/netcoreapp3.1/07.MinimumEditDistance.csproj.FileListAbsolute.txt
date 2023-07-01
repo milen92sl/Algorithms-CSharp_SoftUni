@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\07.MinimumEditDistance\bin\Debug\netcoreapp3.1\07.MinimumEditDistance.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\07.MinimumEditDistance\bin\Debug\netcoreapp3.1\07.MinimumEditDistance.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\07.MinimumEditDistance\bin\Debug\netcoreapp3.1\07.MinimumEditDistance.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\07.MinimumEditDistance\bin\Debug\netcoreapp3.1\07.MinimumEditDistance.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\07.MinimumEditDistance\bin\Debug\netcoreapp3.1\07.MinimumEditDistance.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\07.MinimumEditDistance\bin\Debug\netcoreapp3.1\07.MinimumEditDistance.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\07.MinimumEditDistance\obj\Debug\netcoreapp3.1\07.MinimumEditDistance.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\07.MinimumEditDistance\obj\Debug\netcoreapp3.1\07.MinimumEditDistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\07.MinimumEditDistance\obj\Debug\netcoreapp3.1\07.MinimumEditDistance.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\07.MinimumEditDistance\obj\Debug\netcoreapp3.1\07.MinimumEditDistance.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\07.MinimumEditDistance\obj\Debug\netcoreapp3.1\07.MinimumEditDistance.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\07.MinimumEditDistance\obj\Debug\netcoreapp3.1\07.MinimumEditDistance.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\07.MinimumEditDistance\obj\Debug\netcoreapp3.1\07.MinimumEditDistance.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\07.MinimumEditDistance\obj\Debug\netcoreapp3.1\07.MinimumEditDistance.genruntimeconfig.cache

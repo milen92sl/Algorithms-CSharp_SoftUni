@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.Trains\bin\Debug\netcoreapp3.1\01.Trains.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.Trains\bin\Debug\netcoreapp3.1\01.Trains.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.Trains\bin\Debug\netcoreapp3.1\01.Trains.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.Trains\bin\Debug\netcoreapp3.1\01.Trains.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.Trains\bin\Debug\netcoreapp3.1\01.Trains.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.Trains\bin\Debug\netcoreapp3.1\01.Trains.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.Trains\obj\Debug\netcoreapp3.1\01.Trains.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.Trains\obj\Debug\netcoreapp3.1\01.Trains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.Trains\obj\Debug\netcoreapp3.1\01.Trains.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.Trains\obj\Debug\netcoreapp3.1\01.Trains.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.Trains\obj\Debug\netcoreapp3.1\01.Trains.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.Trains\obj\Debug\netcoreapp3.1\01.Trains.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.Trains\obj\Debug\netcoreapp3.1\01.Trains.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.Trains\obj\Debug\netcoreapp3.1\01.Trains.genruntimeconfig.cache

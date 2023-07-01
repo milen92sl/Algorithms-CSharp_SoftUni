@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\02.SelectionSort\bin\Debug\netcoreapp3.1\02.SelectionSort.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\02.SelectionSort\bin\Debug\netcoreapp3.1\02.SelectionSort.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\02.SelectionSort\bin\Debug\netcoreapp3.1\02.SelectionSort.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\02.SelectionSort\bin\Debug\netcoreapp3.1\02.SelectionSort.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\02.SelectionSort\bin\Debug\netcoreapp3.1\02.SelectionSort.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\02.SelectionSort\bin\Debug\netcoreapp3.1\02.SelectionSort.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\02.SelectionSort\obj\Debug\netcoreapp3.1\02.SelectionSort.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\02.SelectionSort\obj\Debug\netcoreapp3.1\02.SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\02.SelectionSort\obj\Debug\netcoreapp3.1\02.SelectionSort.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\02.SelectionSort\obj\Debug\netcoreapp3.1\02.SelectionSort.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\02.SelectionSort\obj\Debug\netcoreapp3.1\02.SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\02.SelectionSort\obj\Debug\netcoreapp3.1\02.SelectionSort.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\02.SelectionSort\obj\Debug\netcoreapp3.1\02.SelectionSort.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\02.SelectionSort\obj\Debug\netcoreapp3.1\02.SelectionSort.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\02.DividingPresents\bin\Debug\netcoreapp3.1\02.DividingPresents.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\02.DividingPresents\bin\Debug\netcoreapp3.1\02.DividingPresents.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\02.DividingPresents\bin\Debug\netcoreapp3.1\02.DividingPresents.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\02.DividingPresents\bin\Debug\netcoreapp3.1\02.DividingPresents.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\02.DividingPresents\bin\Debug\netcoreapp3.1\02.DividingPresents.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\02.DividingPresents\bin\Debug\netcoreapp3.1\02.DividingPresents.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\02.DividingPresents\obj\Debug\netcoreapp3.1\02.DividingPresents.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\02.DividingPresents\obj\Debug\netcoreapp3.1\02.DividingPresents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\02.DividingPresents\obj\Debug\netcoreapp3.1\02.DividingPresents.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\02.DividingPresents\obj\Debug\netcoreapp3.1\02.DividingPresents.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\02.DividingPresents\obj\Debug\netcoreapp3.1\02.DividingPresents.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\02.DividingPresents\obj\Debug\netcoreapp3.1\02.DividingPresents.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\02.DividingPresents\obj\Debug\netcoreapp3.1\02.DividingPresents.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Exercise\02.DividingPresents\obj\Debug\netcoreapp3.1\02.DividingPresents.genruntimeconfig.cache

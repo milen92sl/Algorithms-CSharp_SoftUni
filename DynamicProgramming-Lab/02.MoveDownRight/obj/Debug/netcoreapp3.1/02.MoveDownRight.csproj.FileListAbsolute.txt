@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\02.MoveDownRight\bin\Debug\netcoreapp3.1\02.MoveDownRight.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\02.MoveDownRight\bin\Debug\netcoreapp3.1\02.MoveDownRight.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\02.MoveDownRight\bin\Debug\netcoreapp3.1\02.MoveDownRight.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\02.MoveDownRight\bin\Debug\netcoreapp3.1\02.MoveDownRight.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\02.MoveDownRight\bin\Debug\netcoreapp3.1\02.MoveDownRight.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\02.MoveDownRight\bin\Debug\netcoreapp3.1\02.MoveDownRight.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\02.MoveDownRight\obj\Debug\netcoreapp3.1\02.MoveDownRight.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\02.MoveDownRight\obj\Debug\netcoreapp3.1\02.MoveDownRight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\02.MoveDownRight\obj\Debug\netcoreapp3.1\02.MoveDownRight.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\02.MoveDownRight\obj\Debug\netcoreapp3.1\02.MoveDownRight.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\02.MoveDownRight\obj\Debug\netcoreapp3.1\02.MoveDownRight.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\02.MoveDownRight\obj\Debug\netcoreapp3.1\02.MoveDownRight.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\02.MoveDownRight\obj\Debug\netcoreapp3.1\02.MoveDownRight.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\02.MoveDownRight\obj\Debug\netcoreapp3.1\02.MoveDownRight.genruntimeconfig.cache

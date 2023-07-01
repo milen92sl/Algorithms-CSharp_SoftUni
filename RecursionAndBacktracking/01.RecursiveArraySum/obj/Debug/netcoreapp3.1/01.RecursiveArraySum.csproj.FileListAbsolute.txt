@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\01.RecursiveArraySum\bin\Debug\netcoreapp3.1\01.RecursiveArraySum.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\01.RecursiveArraySum\bin\Debug\netcoreapp3.1\01.RecursiveArraySum.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\01.RecursiveArraySum\bin\Debug\netcoreapp3.1\01.RecursiveArraySum.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\01.RecursiveArraySum\bin\Debug\netcoreapp3.1\01.RecursiveArraySum.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\01.RecursiveArraySum\bin\Debug\netcoreapp3.1\01.RecursiveArraySum.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\01.RecursiveArraySum\bin\Debug\netcoreapp3.1\01.RecursiveArraySum.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\01.RecursiveArraySum\obj\Debug\netcoreapp3.1\01.RecursiveArraySum.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\01.RecursiveArraySum\obj\Debug\netcoreapp3.1\01.RecursiveArraySum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\01.RecursiveArraySum\obj\Debug\netcoreapp3.1\01.RecursiveArraySum.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\01.RecursiveArraySum\obj\Debug\netcoreapp3.1\01.RecursiveArraySum.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\01.RecursiveArraySum\obj\Debug\netcoreapp3.1\01.RecursiveArraySum.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\01.RecursiveArraySum\obj\Debug\netcoreapp3.1\01.RecursiveArraySum.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\01.RecursiveArraySum\obj\Debug\netcoreapp3.1\01.RecursiveArraySum.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndBacktracking\01.RecursiveArraySum\obj\Debug\netcoreapp3.1\01.RecursiveArraySum.genruntimeconfig.cache

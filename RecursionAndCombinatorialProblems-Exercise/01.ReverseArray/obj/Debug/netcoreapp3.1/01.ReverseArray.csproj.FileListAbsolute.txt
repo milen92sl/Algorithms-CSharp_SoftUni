@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\01.ReverseArray\bin\Debug\netcoreapp3.1\01.ReverseArray.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\01.ReverseArray\bin\Debug\netcoreapp3.1\01.ReverseArray.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\01.ReverseArray\bin\Debug\netcoreapp3.1\01.ReverseArray.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\01.ReverseArray\bin\Debug\netcoreapp3.1\01.ReverseArray.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\01.ReverseArray\bin\Debug\netcoreapp3.1\01.ReverseArray.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\01.ReverseArray\bin\Debug\netcoreapp3.1\01.ReverseArray.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\01.ReverseArray\obj\Debug\netcoreapp3.1\01.ReverseArray.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\01.ReverseArray\obj\Debug\netcoreapp3.1\01.ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\01.ReverseArray\obj\Debug\netcoreapp3.1\01.ReverseArray.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\01.ReverseArray\obj\Debug\netcoreapp3.1\01.ReverseArray.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\01.ReverseArray\obj\Debug\netcoreapp3.1\01.ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\01.ReverseArray\obj\Debug\netcoreapp3.1\01.ReverseArray.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\01.ReverseArray\obj\Debug\netcoreapp3.1\01.ReverseArray.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\RecursionAndCombinatorialProblems-Exercise\01.ReverseArray\obj\Debug\netcoreapp3.1\01.ReverseArray.genruntimeconfig.cache

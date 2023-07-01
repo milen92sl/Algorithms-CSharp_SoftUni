@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\00.SubsetSum\bin\Debug\netcoreapp3.1\00.SubsetSum.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\00.SubsetSum\bin\Debug\netcoreapp3.1\00.SubsetSum.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\00.SubsetSum\bin\Debug\netcoreapp3.1\00.SubsetSum.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\00.SubsetSum\bin\Debug\netcoreapp3.1\00.SubsetSum.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\00.SubsetSum\bin\Debug\netcoreapp3.1\00.SubsetSum.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\00.SubsetSum\bin\Debug\netcoreapp3.1\00.SubsetSum.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\00.SubsetSum\obj\Debug\netcoreapp3.1\00.SubsetSum.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\00.SubsetSum\obj\Debug\netcoreapp3.1\00.SubsetSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\00.SubsetSum\obj\Debug\netcoreapp3.1\00.SubsetSum.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\00.SubsetSum\obj\Debug\netcoreapp3.1\00.SubsetSum.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\00.SubsetSum\obj\Debug\netcoreapp3.1\00.SubsetSum.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\00.SubsetSum\obj\Debug\netcoreapp3.1\00.SubsetSum.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\00.SubsetSum\obj\Debug\netcoreapp3.1\00.SubsetSum.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\DynamicProgramming-Lab\00.SubsetSum\obj\Debug\netcoreapp3.1\00.SubsetSum.genruntimeconfig.cache

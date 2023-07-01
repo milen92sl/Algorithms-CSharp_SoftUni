@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\02.AreasInMatrix\bin\Debug\netcoreapp3.1\02.AreasInMatrix.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\02.AreasInMatrix\bin\Debug\netcoreapp3.1\02.AreasInMatrix.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\02.AreasInMatrix\bin\Debug\netcoreapp3.1\02.AreasInMatrix.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\02.AreasInMatrix\bin\Debug\netcoreapp3.1\02.AreasInMatrix.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\02.AreasInMatrix\bin\Debug\netcoreapp3.1\02.AreasInMatrix.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\02.AreasInMatrix\bin\Debug\netcoreapp3.1\02.AreasInMatrix.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\02.AreasInMatrix\obj\Debug\netcoreapp3.1\02.AreasInMatrix.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\02.AreasInMatrix\obj\Debug\netcoreapp3.1\02.AreasInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\02.AreasInMatrix\obj\Debug\netcoreapp3.1\02.AreasInMatrix.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\02.AreasInMatrix\obj\Debug\netcoreapp3.1\02.AreasInMatrix.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\02.AreasInMatrix\obj\Debug\netcoreapp3.1\02.AreasInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\02.AreasInMatrix\obj\Debug\netcoreapp3.1\02.AreasInMatrix.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\02.AreasInMatrix\obj\Debug\netcoreapp3.1\02.AreasInMatrix.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\02.AreasInMatrix\obj\Debug\netcoreapp3.1\02.AreasInMatrix.genruntimeconfig.cache

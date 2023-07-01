@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\04.InsertionSort\bin\Debug\netcoreapp3.1\04.InsertionSort.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\04.InsertionSort\bin\Debug\netcoreapp3.1\04.InsertionSort.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\04.InsertionSort\bin\Debug\netcoreapp3.1\04.InsertionSort.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\04.InsertionSort\bin\Debug\netcoreapp3.1\04.InsertionSort.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\04.InsertionSort\bin\Debug\netcoreapp3.1\04.InsertionSort.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\04.InsertionSort\bin\Debug\netcoreapp3.1\04.InsertionSort.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\04.InsertionSort\obj\Debug\netcoreapp3.1\04.InsertionSort.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\04.InsertionSort\obj\Debug\netcoreapp3.1\04.InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\04.InsertionSort\obj\Debug\netcoreapp3.1\04.InsertionSort.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\04.InsertionSort\obj\Debug\netcoreapp3.1\04.InsertionSort.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\04.InsertionSort\obj\Debug\netcoreapp3.1\04.InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\04.InsertionSort\obj\Debug\netcoreapp3.1\04.InsertionSort.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\04.InsertionSort\obj\Debug\netcoreapp3.1\04.InsertionSort.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\SearchingSortingGreedyAlg\04.InsertionSort\obj\Debug\netcoreapp3.1\04.InsertionSort.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\06.RoadReconstruction\bin\Debug\netcoreapp3.1\06.RoadReconstruction.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\06.RoadReconstruction\bin\Debug\netcoreapp3.1\06.RoadReconstruction.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\06.RoadReconstruction\bin\Debug\netcoreapp3.1\06.RoadReconstruction.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\06.RoadReconstruction\bin\Debug\netcoreapp3.1\06.RoadReconstruction.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\06.RoadReconstruction\bin\Debug\netcoreapp3.1\06.RoadReconstruction.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\06.RoadReconstruction\bin\Debug\netcoreapp3.1\06.RoadReconstruction.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\06.RoadReconstruction\obj\Debug\netcoreapp3.1\06.RoadReconstruction.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\06.RoadReconstruction\obj\Debug\netcoreapp3.1\06.RoadReconstruction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\06.RoadReconstruction\obj\Debug\netcoreapp3.1\06.RoadReconstruction.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\06.RoadReconstruction\obj\Debug\netcoreapp3.1\06.RoadReconstruction.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\06.RoadReconstruction\obj\Debug\netcoreapp3.1\06.RoadReconstruction.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\06.RoadReconstruction\obj\Debug\netcoreapp3.1\06.RoadReconstruction.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\06.RoadReconstruction\obj\Debug\netcoreapp3.1\06.RoadReconstruction.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\06.RoadReconstruction\obj\Debug\netcoreapp3.1\06.RoadReconstruction.genruntimeconfig.cache

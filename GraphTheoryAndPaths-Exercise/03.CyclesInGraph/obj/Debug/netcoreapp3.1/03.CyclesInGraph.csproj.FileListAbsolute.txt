@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\03.CyclesInGraph\bin\Debug\netcoreapp3.1\03.CyclesInGraph.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\03.CyclesInGraph\bin\Debug\netcoreapp3.1\03.CyclesInGraph.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\03.CyclesInGraph\bin\Debug\netcoreapp3.1\03.CyclesInGraph.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\03.CyclesInGraph\bin\Debug\netcoreapp3.1\03.CyclesInGraph.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\03.CyclesInGraph\bin\Debug\netcoreapp3.1\03.CyclesInGraph.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\03.CyclesInGraph\bin\Debug\netcoreapp3.1\03.CyclesInGraph.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\03.CyclesInGraph\obj\Debug\netcoreapp3.1\03.CyclesInGraph.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\03.CyclesInGraph\obj\Debug\netcoreapp3.1\03.CyclesInGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\03.CyclesInGraph\obj\Debug\netcoreapp3.1\03.CyclesInGraph.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\03.CyclesInGraph\obj\Debug\netcoreapp3.1\03.CyclesInGraph.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\03.CyclesInGraph\obj\Debug\netcoreapp3.1\03.CyclesInGraph.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\03.CyclesInGraph\obj\Debug\netcoreapp3.1\03.CyclesInGraph.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\03.CyclesInGraph\obj\Debug\netcoreapp3.1\03.CyclesInGraph.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\03.CyclesInGraph\obj\Debug\netcoreapp3.1\03.CyclesInGraph.genruntimeconfig.cache

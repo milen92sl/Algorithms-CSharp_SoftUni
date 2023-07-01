@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\05.BreakCycles\bin\Debug\netcoreapp3.1\05.BreakCycles.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\05.BreakCycles\bin\Debug\netcoreapp3.1\05.BreakCycles.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\05.BreakCycles\bin\Debug\netcoreapp3.1\05.BreakCycles.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\05.BreakCycles\bin\Debug\netcoreapp3.1\05.BreakCycles.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\05.BreakCycles\bin\Debug\netcoreapp3.1\05.BreakCycles.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\05.BreakCycles\bin\Debug\netcoreapp3.1\05.BreakCycles.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\05.BreakCycles\obj\Debug\netcoreapp3.1\05.BreakCycles.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\05.BreakCycles\obj\Debug\netcoreapp3.1\05.BreakCycles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\05.BreakCycles\obj\Debug\netcoreapp3.1\05.BreakCycles.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\05.BreakCycles\obj\Debug\netcoreapp3.1\05.BreakCycles.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\05.BreakCycles\obj\Debug\netcoreapp3.1\05.BreakCycles.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\05.BreakCycles\obj\Debug\netcoreapp3.1\05.BreakCycles.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\05.BreakCycles\obj\Debug\netcoreapp3.1\05.BreakCycles.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\GraphTheoryAndPaths-Exercise\05.BreakCycles\obj\Debug\netcoreapp3.1\05.BreakCycles.genruntimeconfig.cache

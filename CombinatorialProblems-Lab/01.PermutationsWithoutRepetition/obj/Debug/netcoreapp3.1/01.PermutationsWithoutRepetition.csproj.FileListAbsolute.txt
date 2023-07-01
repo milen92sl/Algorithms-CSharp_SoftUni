@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\01.PermutationsWithoutRepetition\bin\Debug\netcoreapp3.1\01.PermutationsWithoutRepetition.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\01.PermutationsWithoutRepetition\bin\Debug\netcoreapp3.1\01.PermutationsWithoutRepetition.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\01.PermutationsWithoutRepetition\bin\Debug\netcoreapp3.1\01.PermutationsWithoutRepetition.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\01.PermutationsWithoutRepetition\bin\Debug\netcoreapp3.1\01.PermutationsWithoutRepetition.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\01.PermutationsWithoutRepetition\bin\Debug\netcoreapp3.1\01.PermutationsWithoutRepetition.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\01.PermutationsWithoutRepetition\bin\Debug\netcoreapp3.1\01.PermutationsWithoutRepetition.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\01.PermutationsWithoutRepetition\obj\Debug\netcoreapp3.1\01.PermutationsWithoutRepetition.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\01.PermutationsWithoutRepetition\obj\Debug\netcoreapp3.1\01.PermutationsWithoutRepetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\01.PermutationsWithoutRepetition\obj\Debug\netcoreapp3.1\01.PermutationsWithoutRepetition.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\01.PermutationsWithoutRepetition\obj\Debug\netcoreapp3.1\01.PermutationsWithoutRepetition.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\01.PermutationsWithoutRepetition\obj\Debug\netcoreapp3.1\01.PermutationsWithoutRepetition.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\01.PermutationsWithoutRepetition\obj\Debug\netcoreapp3.1\01.PermutationsWithoutRepetition.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\01.PermutationsWithoutRepetition\obj\Debug\netcoreapp3.1\01.PermutationsWithoutRepetition.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\CombinatorialProblems-Lab\01.PermutationsWithoutRepetition\obj\Debug\netcoreapp3.1\01.PermutationsWithoutRepetition.genruntimeconfig.cache
